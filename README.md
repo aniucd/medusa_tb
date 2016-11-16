@@ -1,5 +1,6 @@
+![Medusa Logo](./doc/logo-medusa-368x118_0.jpg)
+
 # MEDUSA Toolbox
-=========================
 
 This code provides a common interface in order to download [Sentinel 1 and 2](https://sentinel.esa.int/web/sentinel/home) data using [Google Earth Engine](https://earthengine.google.com/) or [PEPS](https://peps.cnes.fr/rocket/#/home) portal.
 It is developed in the [MEDUSA project](http://w3.onera.fr/medusa/) at [ONERA](http://www.onera.fr).
