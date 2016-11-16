@@ -1,0 +1,17 @@
+{
+    "backend":"ee",
+    "satellite":"S1",
+    "startDate": "2015 01 01",
+    "endDate": "2015 08 01",
+    "lonmin":2.18491,
+    "lonmax":2.26799,
+    "latmin":48.69209,
+    "latmax":48.73672,
+    "orientation":"ASCENDING",
+    "polarization":"VV",
+    "size": "503 617",
+    "cleanDownloads":true,
+    "askConformation":true,
+    "createCube":true,
+    "createCubeFilename":"mycube.npz"
+}

@@ -1,0 +1,11 @@
+{
+    "backend":"peps",
+    "satellite":"S1",
+    "startDate": "2015 01 01",
+    "endDate": "2015 08 01",
+    "lonmin":2.18491,
+    "lonmax":2.26799,
+    "latmin":48.69209,
+    "latmax":48.73672,
+    "auth":"login password"
+}
